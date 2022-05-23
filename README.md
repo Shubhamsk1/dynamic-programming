@@ -1,5 +1,5 @@
 # Dynamic-programming
-Parent Problem: *Longest Common Subsequence*
+Parent Problem: <a href="https://github.com/Shubhamsk1/dynamic-programming/blob/main/LCS.cpp">*Longest Common Subsequence*</a>
 1. Longest Common substring
 2. Print LCS
 3. Shortest common subsequence
